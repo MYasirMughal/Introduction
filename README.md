@@ -35,7 +35,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **myasirmughal69@gmail.com**
 
-<h3 align="center"> Cisco Badges 🥇</h3>
+
+<h3 align="center">
+  <img src="https://www.netacad.com/sites/all/themes/custom/prelogin/assets/img/cisco_netacad_logo.png" alt="Cisco Networking Academy" height="30" width="80">
+  Cisco Badges
+</h3>
 
 
 
