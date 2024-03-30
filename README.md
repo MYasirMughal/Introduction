@@ -37,10 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> Cisco Badges 🥇</h3>
 
-<a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img align="center" src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" width="110" alt="Network Security badge image. Issued by Cisco" height="110" width="100">
-</a>
 
-<a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1"><img align="center" src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" alt="Networking Basics badge image. Issued by Cisco" height="110">                                                                           
+
+<a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img align="left" src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" width="110" alt="Network Security badge image. Issued by Cisco" height="110" width="100">
+</a>
+  
+<a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1"><img align="left" src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" alt="Networking Basics badge image. Issued by Cisco" height="110">                                                                           
 </a>
 
 
@@ -48,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://linkedin.com/in/m-yasir-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-yasir-mughal" height="30" width="40">
 </a>
+
   </p>
 <h3 align="left">Languages and Tools: </h3>
 
