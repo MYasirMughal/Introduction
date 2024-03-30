@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center"> Cisco Badges 🥇</h3>
 
-<div class="cr-standard-grid-item-content__title clamp-lines__css-clamp" style="max-height: 104px; -webkit-line-clamp: 4;">Network Security</div>
+<img class="cr-standard-grid-item-content__image" src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width="110" alt="IT Essentials badge image. Issued by Cisco" height="110">
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f366963f-0b29-4acf-bfa2-38731bac87e2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
