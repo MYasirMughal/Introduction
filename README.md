@@ -60,7 +60,25 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.credly.com/earner/earned/badge/f366963f-0b29-4acf-bfa2-38731bac87e2"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials badge image. Issued by Cisco" width="150" height="150">
     </a>
   </td>
-  
+  <td>
+    <a href="https://www.credly.com/badges/d8e14cce-f7ca-4b73-af1e-20e997cf8744"><img src="https://images.credly.com/size/340x340/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate badge image. Issued by ISC2" width="150" height="150">
+</a>
+  </td>
+  </tr>
+  <tr>
+<td>
+  <a href="https://www.credly.com/badges/0ce5c48c-9485-45df-ba6f-927ca533d464"><img src="https://images.credly.com/size/340x340/images/dcdf1a3c-2594-4f4c-a33a-050b4bca58b5/image.png" alt="Operating Systems Basics badge image. Learning. Foundational level. Issued by Cisco" width="150" height="150">
+</a>
+</td>
+<td>
+  <a href="https://www.credly.com/badges/4daf9745-4bb8-47fb-a4a4-47f9f559de44"><img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" alt="Computer Hardware Basics badge image. Learning. Foundational level. Issued by Cisco" width="150" height="150">
+</a>
+</td>
+<td>
+  <a href="https://www.credly.com/badges/be6418d8-70e0-4743-aae4-b17f735eb137"><img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity badge image. Issued by Cisco" width="150" height="150">
+</a>
+</td>
+
   
   </tr>
 </table>
