@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <h3 align="left">About me:  </h3>
 
-- 🏆  In top Contributer on TryHackMe : [Profile]
+- 🏆  In top Contributer on TryHackMe : <a href="https://tryhackme.com/p/MuhammadYasirS">[Profile]</a>
 
 - 🌱 I’m currently learning various Programming languages.
 
