@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 </a>    
     </td>
   <td>
-    <a href="https://www.credly.com/earner/earned/badge/f366963f-0b29-4acf-bfa2-38731bac87e2"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials badge image. Issued by Cisco" width="150" height="150">
+    <a href="https://www.credly.com/badges/f366963f-0b29-4acf-bfa2-38731bac87e2"><img src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials badge image. Issued by Cisco" width="150" height="150">
     </a>
   </td>
   <td>
@@ -101,8 +101,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myasirmughal&show_icons=true&locale=en&layout=compact" alt="myasirmughal" /></p>
