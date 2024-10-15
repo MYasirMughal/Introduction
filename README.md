@@ -82,21 +82,21 @@ You can click the Preview link to take a look at your changes.
   <!-- LinkedIn badge -->
   <p align="left" style="margin: 0;">
     <a href="https://lnkd.in/ebQx44Dx" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-brightgreen?style=for-the-badge&logo=Linkedin" alt="m_yasir_mughal">
+      <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-brightgreen?style=for-the-badge&logo=Linkedin" alt="m_yasir_mughal" style="max-width: 150px; height: auto;">
     </a>
   </p>
 
   <!-- Twitter badge -->
   <p align="left" style="margin: 0;">
     <a href="https://twitter.com/m_yasir_mughal" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-blue?style=for-the-badge&logo=Twitter" alt="m_yasir_mughal">
+      <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-blue?style=for-the-badge&logo=Twitter" alt="m_yasir_mughal" style="max-width: 150px; height: auto;">
     </a>
   </p>
 
   <!-- TryHackMe badge -->
   <p align="left" style="margin: 0;">
     <a href="https://tryhackme.com/p/MuhammadYasirS" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/My%20Profile%20on-TryHackMe-red?style=for-the-badge&logo=Tryhackme" alt="m_yasir_mughal">
+      <img src="https://img.shields.io/badge/My%20Profile%20on-TryHackMe-red?style=for-the-badge&logo=Tryhackme" alt="m_yasir_mughal" style="max-width: 150px; height: auto;">
     </a>
   </p>
 
@@ -139,7 +139,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; justify-content: left; align-items: center; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=myasirmughal&label=Profile%20views&color=0e75b6&style=flat" alt="myasirmughal" style="max-width: 150px; height: auto;"/>
 </div>
-</div>
+
 
 <!-- Profile views counter -->
 <p align="left" style="margin-top: 10px;">
