@@ -30,6 +30,29 @@
                 height: auto;
             }
         }
+
+
+/* Flexbox layout for follow-me badges */
+p[align="left"] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Profile view counter margin adjustment */
+p img {
+    margin-top: 10px;
+}
+
     </style>
 </head>
 <body>
