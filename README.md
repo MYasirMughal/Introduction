@@ -73,12 +73,49 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I’m @MYasirMughal </h1>
 <h3 align="center">👀 I’m interested in solving Cybersecurity issues.</h3>
 
+
+
+
 <!-- Wrap everything in a flexbox container -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   
+  <!-- LinkedIn badge -->
+  <p align="left" style="margin: 0;">
+    <a href="https://lnkd.in/ebQx44Dx" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-brightgreen?style=for-the-badge&logo=Linkedin" alt="m_yasir_mughal">
+    </a>
+  </p>
 
-<p align="left"> 
-//style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Twitter badge -->
+  <p align="left" style="margin: 0;">
+    <a href="https://twitter.com/m_yasir_mughal" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Follow%20me%20on-Twitter-blue?style=for-the-badge&logo=Twitter" alt="m_yasir_mughal">
+    </a>
+  </p>
+
+  <!-- TryHackMe badge -->
+  <p align="left" style="margin: 0;">
+    <a href="https://tryhackme.com/p/MuhammadYasirS" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/My%20Profile%20on-TryHackMe-red?style=for-the-badge&logo=Tryhackme" alt="m_yasir_mughal">
+    </a>
+  </p>
+
+  <!-- Profile views counter -->
+  <div style="display: flex; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=myasirmughal&label=Profile%20views&color=0e75b6&style=flat" alt="myasirmughal" style="max-width: 150px; height: auto;">
+  </div>
+
+</div>
+
+
+
+
+
+
+
+  
+
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- LinkedIn -->
   <a href="https://lnkd.in/ebQx44Dx" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-brightgreen?style=for-the-badge&logo=Linkedin" alt="m_yasir_mughal">
