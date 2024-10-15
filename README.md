@@ -73,11 +73,12 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I’m @MYasirMughal </h1>
 <h3 align="center">👀 I’m interested in solving Cybersecurity issues.</h3>
 
-!-- Wrap everything in a flexbox container -->
+<!-- Wrap everything in a flexbox container -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<p align="left"> 
+//style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- LinkedIn -->
   <a href="https://lnkd.in/ebQx44Dx" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-brightgreen?style=for-the-badge&logo=Linkedin" alt="m_yasir_mughal">
