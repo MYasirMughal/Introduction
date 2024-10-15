@@ -53,6 +53,13 @@ p img {
     margin-top: 10px;
 }
 
+p[align="left"] img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%; /* Ensures the image is responsive */
+}
+
+
     </style>
 </head>
 <body>
