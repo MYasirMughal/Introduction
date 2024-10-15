@@ -73,6 +73,10 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I’m @MYasirMughal </h1>
 <h3 align="center">👀 I’m interested in solving Cybersecurity issues.</h3>
 
+!-- Wrap everything in a flexbox container -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  
+
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <!-- LinkedIn -->
   <a href="https://lnkd.in/ebQx44Dx" target="_blank" style="text-decoration: none;">
@@ -97,7 +101,7 @@ You can click the Preview link to take a look at your changes.
 <div style="display: flex; justify-content: left; align-items: center; margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=myasirmughal&label=Profile%20views&color=0e75b6&style=flat" alt="myasirmughal" style="max-width: 150px; height: auto;"/>
 </div>
-
+</div>
 
 <!-- Profile views counter -->
 <p align="left" style="margin-top: 10px;">
