@@ -88,6 +88,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=myasirmughal&label=Profile%20views&color=0e75b6&style=flat" alt="myasirmughal" />
 </p>
 
+<!-- Profile views counter -->
+<p align="left" style="display: flex; align-items: center; margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=myasirmughal&label=Profile%20views&color=0e75b6&style=flat" alt="myasirmughal" />
+</p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myasirmughal" alt="myasirmughal" /></a>
 
 </p>
