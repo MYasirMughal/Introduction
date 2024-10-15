@@ -79,15 +79,15 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td>
-<a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img align="left" src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security badge image. Issued by Cisco" height="150" width="150">
+<a href="https://www.credly.com/earner/earned/badge/d37c6a51-500c-4517-8c8b-81bf75d0b44f"><img src="https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Network Security badge image. Issued by Cisco" height="150" width="150">
 </a>
     </td>
     <td>
-<a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1"><img align="left" src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics badge image. Issued by Cisco" height="150" width="150">                                                                           
+<a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1"><img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics badge image. Issued by Cisco" height="150" width="150">                                                                           
 </a>
     </td>
     <td>
-<a href="https://www.credly.com/earner/earned/badge/3bc754bd-81d8-40a8-88fb-5dc4032e1af4"><img align="left" src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials badge image. Issued by Cisco" height="150" width="150">
+<a href="https://www.credly.com/earner/earned/badge/3bc754bd-81d8-40a8-88fb-5dc4032e1af4"><img src="https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials badge image. Issued by Cisco" height="150" width="150">
 </a>    
     </td>
   <td>
