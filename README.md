@@ -46,6 +46,43 @@ You can click the Preview link to take a look at your changes.
   Cisco Achieved Badges
 </h3>
 
+
+
+
+
+    <div class="badge-container">
+        <img id="cisco-logo" src="https://logo-url-here.com/cisco-logo.png" alt="Cisco Badge">
+    </div>
+
+    <div class="logo-links">
+        <h3>Choose a Cisco Logo:</h3>
+        <ul>
+            <li><a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/Cisco_logo.svg" target="_blank">Cisco Logo 1</a></li>
+            <li><a href="https://1000logos.net/wp-content/uploads/2017/06/Cisco-logo.png" target="_blank">Cisco Logo 2</a></li>
+            <li><a href="https://logos-world.net/wp-content/uploads/2020/12/Cisco-Logo.png" target="_blank">Cisco Logo 3</a></li>
+            <li><a href="https://www.cisco.com/c/en/us/about/brand-center/digital-guidelines/_jcr_content/Grid/category_atl_7b9c/layout-category-atl/gd21_responsiveimage_2207329709.adaptive.full.medium.png" target="_blank">Cisco Logo 4</a></li>
+            <li><a href="https://cdn.worldvectorlogo.com/logos/cisco-5.svg" target="_blank">Cisco Logo 5</a></li>
+            <li><a href="https://upload.wikimedia.org/wikipedia/commons/5/52/Cisco_Systems_Logo_2013.svg" target="_blank">Cisco Logo 6</a></li>
+            <li><a href="https://brandpalettes.com/wp-content/uploads/2020/12/cisco-logo-colors.png" target="_blank">Cisco Logo 7</a></li>
+            <li><a href="https://seeklogo.com/images/C/cisco-systems-logo-F4D399FCD5-seeklogo.com.png" target="_blank">Cisco Logo 8</a></li>
+            <li><a href="https://logos-download.com/wp-content/uploads/2016/05/Cisco_logo_blue.png" target="_blank">Cisco Logo 9</a></li>
+            <li><a href="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" target="_blank">Cisco Logo 10</a></li>
+        </ul>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
 
   <a href="https://www.credly.com/earner/earned/badge/627a72ce-39c3-4982-84b6-dc7ee708b2c1" style="margin-right: 10px;">
