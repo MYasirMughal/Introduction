@@ -33,13 +33,15 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">About me:  </h3>
 
 - 🏆  In top Contributer on TryHackMe : <a href="https://tryhackme.com/p/MuhammadYasirS">[Profile]</a>
-
+<p>
 - 🌱 I’m currently learning various Programming languages.
-
+</p>
+<p>
 - 💞️ I’m looking to collaborate on ...
-
+</p>
+<p>
 - 📫 How to reach me **myasirmughal69@gmail.com**
-
+</p>
 
   <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80" style="align=center;">
   
