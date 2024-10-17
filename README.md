@@ -41,32 +41,11 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **myasirmughal69@gmail.com**
 
 
-<h3 align="center">
   <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80">
-  Cisco Achieved Badges
+  
+<h3 align="center">
+Cisco Achieved Badges
 </h3>
-
-
- 
-<h3>Choose a Cisco Logo:</h3>
-<ul>
-
-            <li><a href="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" target="_blank">Cisco Logo 10</a></li>
-        </ul>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
 
