@@ -50,11 +50,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-    <div class="badge-container">
-        <img id="cisco-logo" src="https://logo-url-here.com/cisco-logo.png" alt="Cisco Badge">
-    </div>
+ 
 
-    <div class="logo-links">
+    <div>
         <h3>Choose a Cisco Logo:</h3>
         <ul>
             <li><a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/Cisco_logo.svg" target="_blank">Cisco Logo 1</a></li>
