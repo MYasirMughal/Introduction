@@ -31,18 +31,20 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 <h3 align="left">About me:  </h3>
-
-- 🏆  In top Contributer on TryHackMe : <a href="https://tryhackme.com/p/MuhammadYasirS">[Profile]</a>
-<p>
-- 🌱 I’m currently learning various Programming languages.
-</p>
-<p>
-- 💞️ I’m looking to collaborate on ...
-</p>
-<p>
-- 📫 How to reach me **myasirmughal69@gmail.com**
-</p>
-
+<ul>
+<li>
+🏆  In top Contributer on TryHackMe : <a href="https://tryhackme.com/p/MuhammadYasirS">[Profile]</a>
+</li>
+<li>
+🌱 I’m currently learning various Programming languages.
+</li>
+<li>
+💞️ I’m looking to collaborate on ...
+</li>
+<li>
+📫 How to reach me **myasirmughal69@gmail.com**
+</li>
+</ul>
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
