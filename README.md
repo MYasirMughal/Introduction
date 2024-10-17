@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **myasirmughal69@gmail.com**
 
 
-  <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80">
+  <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80" align="center">
   
 <h3 align="center">
 Cisco Achieved Badges
