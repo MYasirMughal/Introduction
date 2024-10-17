@@ -51,10 +51,8 @@ You can click the Preview link to take a look at your changes.
 
 
  
-
-    <div>
-        <h3>Choose a Cisco Logo:</h3>
-        <ul>
+<h3>Choose a Cisco Logo:</h3>
+<ul>
             <li><a href="https://upload.wikimedia.org/wikipedia/commons/b/bf/Cisco_logo.svg" target="_blank">Cisco Logo 1</a></li>
             <li><a href="https://1000logos.net/wp-content/uploads/2017/06/Cisco-logo.png" target="_blank">Cisco Logo 2</a></li>
             <li><a href="https://logos-world.net/wp-content/uploads/2020/12/Cisco-Logo.png" target="_blank">Cisco Logo 3</a></li>
@@ -66,7 +64,7 @@ You can click the Preview link to take a look at your changes.
             <li><a href="https://logos-download.com/wp-content/uploads/2016/05/Cisco_logo_blue.png" target="_blank">Cisco Logo 9</a></li>
             <li><a href="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" target="_blank">Cisco Logo 10</a></li>
         </ul>
-    </div>
+    
 
 
 
