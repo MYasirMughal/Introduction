@@ -43,11 +43,17 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **myasirmughal69@gmail.com**
 </p>
 
-  <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80" style="align=center;">
+
+
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
+
+  <img src="https://www.logo.wine/a/logo/Cisco_Systems/Cisco_Systems-Logo.wine.svg" alt="Cisco Networking Academy" height=auto width="80">
   
-<h3 align="center">
+<h3>
 Cisco Achieved Badges
 </h3>
+</div>
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; margin: 20px auto; width: 100%; max-width: 1200px;">
 
